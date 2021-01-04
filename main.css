@@ -1,0 +1,35 @@
+h1 {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-35%, -50%);
+}
+
+.textBox {
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    border: 10px, solid, black;
+    height: 10vh;
+    width: 40vw;
+    font-size: medium;
+}
+
+.output {
+    font-size: x-large;
+    position: absolute;
+    top: 70%;
+    left: 55%;
+    transform: translate(-70%, -50%);
+    font-size: x-large;
+}
+
+.button {
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    transform: translate(-60%, -50%);
+    height: 5vh;
+    width: 10vw
+}
